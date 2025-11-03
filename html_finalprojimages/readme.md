@@ -1,0 +1,10 @@
+All images from final project submission.
+<img width="909" height="610" alt="skills" src="https://github.com/user-attachments/assets/81ff42fd-d3c8-447f-b5ef-bd9e9d8b501b" />
+<img width="910" height="536" alt="recommendations" src="https://github.com/user-attachments/assets/b3db471e-fc97-43a5-9df6-8d4ca974cc1c" />
+<img width="1055" height="524" alt="projects" src="https://github.com/user-attachments/assets/f16d1695-171a-4a78-8cea-df198dfd4927" />
+<img width="226" height="128" alt="profile_name" src="https://github.com/user-attachments/assets/7094fd1a-db26-4f2f-b08c-742c4a49ac0e" />
+<img width="834" height="475" alt="popup" src="https://github.com/user-attachments/assets/8f443d99-c741-4b91-ad81-347ef71f7876" />
+<img width="927" height="537" alt="new_recommendation" src="https://github.com/user-attachments/assets/f2b44a09-1796-4e85-92f7-9428e3a3bc50" />
+<img width="601" height="80" alt="nav_bar" src="https://github.com/user-attachments/assets/e4531e22-4a84-40ac-8dc8-20807c2b9cac" />
+<img width="784" height="455" alt="home_icon" src="https://github.com/user-attachments/assets/87e0e7bb-d2f1-42d3-b8c6-a83efbe41a99" />
+<img width="1328" height="350" alt="aboutme" src="https://github.com/user-attachments/assets/36588b1a-b2ce-43e9-8de0-fa6e4c6a88ba" />
